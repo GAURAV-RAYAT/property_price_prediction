@@ -32,12 +32,6 @@ A machine learning-powered web application to predict real estate prices based o
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot](./40bf2916-ceea-4233-8b5e-e00797e99be5.png)
-
----
-
 ## 🧠 How it Works
 
 - Trained on housing dataset with feature encoding
@@ -65,21 +59,7 @@ streamlit run app.py
 ## 🌍 Live Demo
 
 You can try the live app here:  
-🔗 [https://your-subdomain.streamlit.app](https://your-subdomain.streamlit.app)
-
-*(Update with your actual app link)*
-
----
-
-## 📁 File Structure
-
-```
-├── app.py                # Main application code
-├── filtered_data.csv     # Dataset used for training
-├── README.md             # Project description
-├── requirements.txt      # Python dependencies
-└── .streamlit/           # Streamlit config (if needed)
-```
+🔗 [https://propertypriceprediction-exrzanw4irty3ytc4boxmz.streamlit.app/](https://propertypriceprediction-exrzanw4irty3ytc4boxmz.streamlit.app/)
 
 ---
 
